@@ -1,0 +1,10 @@
+{
+    "author_name": "Naushad AL Velgy",
+    "author_email": "shad@mcsaatchi.com",
+    "github_username": "Shad-MCS",
+    "project_name": "Project_Name",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "module_name": "{{ cookiecutter.repo_name }}",
+    "project_short_description": "A standard Python project cookiecutter template contains all the boilerplate you need to create a WS Python package.",
+    "version": "0.0.1"
+  }

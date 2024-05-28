@@ -1,0 +1,12 @@
+# local package
+-e .
+
+# external requirements
+# these are the most common ones based on other repositories;
+# please add or delete as appropriate
+pandas=2
+jupyter
+boto3
+sqlalchemy
+psycopg2-binary
+pyyaml

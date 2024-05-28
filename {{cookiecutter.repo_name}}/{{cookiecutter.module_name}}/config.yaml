@@ -1,0 +1,5 @@
+database:
+  username: "test"
+  password: "test"
+  port: 5432
+  host: "some_host"
